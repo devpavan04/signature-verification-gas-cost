@@ -1,4 +1,7 @@
 # Signature verification gas cost
+
+Returns the gas cost associated with signature verification on a contract.
+
 ## quickstart
 
 ```bash
